@@ -6342,6 +6342,7 @@ table tbody tr {
 .paragraph .table-element-right{
 	font-size: 13px;
 	padding-left: 120px;
+	float: left;
 }
 
 .video-content{
